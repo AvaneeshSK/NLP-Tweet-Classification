@@ -1,16 +1,16 @@
 # NLP-Tweet-Classification  
 
-kaggle : https://www.kaggle.com/competitions/nlp-getting-started  
+# kaggle : https://www.kaggle.com/competitions/nlp-getting-started  
 
-tweet classification (disaster or not)  
+# tweet classification (disaster or not)  
 
-models : 
+# models : 
 
     MultinomialNB - preprocessed with TfidfVectorizer
     LSTM Model - preprocessed with TextVectorizer and Embedding layers
     CNN Model - preprocessed with TextVectorizer and Embedding layers
 
-Evaluation : accuracy_score, confusion_matrix  
+# Evaluation : accuracy_score, confusion_matrix  
 
-all models compared  
+# all models compared  
     
